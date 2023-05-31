@@ -1,0 +1,2 @@
+cargo:rustc-cfg=tokio_no_const_mutex_new
+cargo:rustc-cfg=tokio_no_as_fd
